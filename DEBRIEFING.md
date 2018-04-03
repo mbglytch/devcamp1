@@ -1,15 +1,14 @@
 # Debriefing
 
-> Explique en quelques mots à quoi sert ton application.
+> Baptiste et Matthieu
+> Notre application sert a afficher des tournages de films qui ont eu lieu pas loin d'une zone géographique donnée.
 
 ## Application
 
-> Ajouter ici un screenshot, une vidéo ou un lien vers ton application.
+> ...
 
 ## Outils
 
-> Liste ici les outils que tu a utilisé.
-> Tu peux aussi dire rapidement a quoi ils servent et pourquoi tu les utilisent
-
-> - React (Framework JS)
-> - ...
+> CakePHP (Framework PHP)
+> mysql
+> jQuery / Bootsrap
